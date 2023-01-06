@@ -1,0 +1,32 @@
+[
+  {
+    "mode": "nullable",
+    "name": "vin",
+    "type": "string"
+  },
+  {
+    "mode": "nullable",
+    "name": "option_quantities",
+    "type": "integer"
+  },
+  {
+    "mode": "nullable",
+    "name": "options_code",
+    "type": "string"
+  },
+  {
+    "mode": "nullable",
+    "name": "option_desc",
+    "type": "string"
+  },
+  {
+    "mode": "nullable",
+    "name": "model_text",
+    "type": "string"
+  },
+  {
+    "mode": "nullable",
+    "name": "sales_price",
+    "type": "numeric"
+  }
+]

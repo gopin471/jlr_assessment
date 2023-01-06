@@ -1,0 +1,22 @@
+[
+  {
+    "mode": "nullable",
+    "name": "model",
+    "type": "string"
+  },
+  {
+    "mode": "nullable",
+    "name": "option_code",
+    "type": "string"
+  },
+  {
+    "mode": "nullable",
+    "name": "option_desc",
+    "type": "string"
+  },
+  {
+    "mode": "nullable",
+    "name": "material_cost",
+    "type": "numeric"
+  }
+]

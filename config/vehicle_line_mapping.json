@@ -1,0 +1,22 @@
+[
+  {
+    "mode": "nullable",
+    "name": "nameplate_code",
+    "type": "string"
+  },
+  {
+    "mode": "nullable",
+    "name": "brand",
+    "type": "string"
+  },
+  {
+    "mode": "nullable",
+    "name": "platform",
+    "type": "string"
+  },
+  {
+    "mode": "nullable",
+    "name": "nameplate_display",
+    "type": "string"
+  }
+]
